@@ -22,6 +22,7 @@
 		CAD9D334263E33F50088BF6D /* ManagedCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD9D333263E33F50088BF6D /* ManagedCache.swift */; };
 		CAD9D338263E34040088BF6D /* ManagedFeedImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD9D337263E34040088BF6D /* ManagedFeedImage.swift */; };
 		CAD9D33C263E42790088BF6D /* CoreDataFeedStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD9D33B263E42790088BF6D /* CoreDataFeedStore.swift */; };
+		CAD9D340263E43280088BF6D /* CoreDataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD9D33F263E43280088BF6D /* CoreDataHelpers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		CAD9D333263E33F50088BF6D /* ManagedCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManagedCache.swift; sourceTree = "<group>"; };
 		CAD9D337263E34040088BF6D /* ManagedFeedImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManagedFeedImage.swift; sourceTree = "<group>"; };
 		CAD9D33B263E42790088BF6D /* CoreDataFeedStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataFeedStore.swift; sourceTree = "<group>"; };
+		CAD9D33F263E43280088BF6D /* CoreDataHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataHelpers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				08CE2BA52285BCB600183A1B /* FeedStore.swift */,
 				08CE2B8F2285BBD100183A1B /* Info.plist */,
 				CAD9D33B263E42790088BF6D /* CoreDataFeedStore.swift */,
+				CAD9D33F263E43280088BF6D /* CoreDataHelpers.swift */,
 			);
 			path = FeedStoreChallenge;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				CAD9D338263E34040088BF6D /* ManagedFeedImage.swift in Sources */,
 				08CE2BA62285BCB600183A1B /* FeedStore.swift in Sources */,
 				CAD9D330263DF1FF0088BF6D /* FeedStore.xcdatamodeld in Sources */,
+				CAD9D340263E43280088BF6D /* CoreDataHelpers.swift in Sources */,
 				CAD9D334263E33F50088BF6D /* ManagedCache.swift in Sources */,
 				08CE2BA82285BCC600183A1B /* LocalFeedImage.swift in Sources */,
 			);
